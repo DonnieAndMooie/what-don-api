@@ -1,9 +1,27 @@
 var express = require('express');
+const Player = require("../models/Player")
 var router = express.Router();
+const SelectedPlayer = require("../models/SelectedPlayer");
+require('../models/SelectedPlayer');
+const playerData = require("../data").playerData
 
-/* GET home page. */
-router.get('/', function(req, res, next) {
-  res.send("hey")
-});
+
+router.get("/fetch-player", async function(req, res){
+    const currentPlayer = await SelectedPlayer.findOne({})
+    const savedDate = currentPlayer.timestamp.toDateString()
+    if (savedDate === new Date().toDateString()){
+      res.json(currentPlayer)
+    }
+    else{
+      const randomIndex = Math.floor(Math.random() * playerData.length)
+      const randomPlayer = playerData[randomIndex]
+      const player =  new SelectedPlayer(randomPlayer)
+      await SelectedPlayer.deleteOne({})
+      await player.save()
+      return res.json(randomPlayer)
+    }
+
+    
+})
 
 module.exports = router;
