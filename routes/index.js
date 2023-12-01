@@ -7,7 +7,12 @@ const playerData = require("../data").playerData
 
 
 router.get("/fetch-player", async function(req, res){
-    const currentPlayer = await SelectedPlayer.findOne({})
+  res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000");
+  res.header(
+    "Access-Control-Allow-Headers",
+    "Origin, X-Requested-With, Content-Type, Accept"
+  );  
+  const currentPlayer = await SelectedPlayer.findOne({})
     const savedDate = currentPlayer.timestamp.toDateString()
     if (savedDate === new Date().toDateString()){
       res.json(currentPlayer)
