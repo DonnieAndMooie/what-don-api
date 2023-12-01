@@ -6,7 +6,9 @@ const clubSchema = new Schema({
     from: {type: Number, required: true},
     to: {type: Number},
     appearances: {type: Number, required: true},
-    goals: {type: Number, required: true}
+    goals: {type: Number, required: true},
+    team: {type: String, required: true},
+    loan: {type: Boolean, required: true}
 })
 
 const selectedPlayerSchema = new Schema({
