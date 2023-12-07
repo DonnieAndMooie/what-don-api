@@ -7,7 +7,7 @@ const playerData = require("../data").playerData
 
 
 router.get("/fetch-player", async function(req, res){
-  res.setHeader("Access-Control-Allow-Origin", "https://donnieandmooie.github.io/what-don/");
+  res.setHeader("Access-Control-Allow-Origin", "https://donnieandmooie.github.io/");
   res.header(
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With, Content-Type, Accept"
