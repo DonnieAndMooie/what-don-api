@@ -30163,10 +30163,10 @@ const playerData = [
   ]
 
 
-  // for (const player of playerData){
-  //   const newPlayer = new Player(player)
-  //   console.log(player.name)
-  //   newPlayer.save()
-  // } 
+  for (const player of playerData){
+    const newPlayer = new Player(player)
+    console.log(player.name)
+    newPlayer.save()
+  } 
 
   exports.playerData = playerData
