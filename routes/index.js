@@ -7,7 +7,14 @@ const playerData = require("../data").playerData
 
 
 router.get("/fetch-player", async function(req, res){
-  res.setHeader("Access-Control-Allow-Origin", "https://donnieandmooie.github.io");
+  const origin = req.get("origin")
+  if (origin === "https://donnieandmooie.github.io"){
+    res.setHeader("Access-Control-Allow-Origin", "https://donnieandmooie.github.io");
+  }
+  else{
+    res.setHeader("Access-Control-Allow-Origin", "http://localhost:3000")
+  }
+  
   res.header(
     "Access-Control-Allow-Headers",
     "Origin, X-Requested-With, Content-Type, Accept"
