@@ -4980,69 +4980,6 @@ const playerData = [
       picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Josh_Murphy_%28cropped%29.jpg/200px-Josh_Murphy_%28cropped%29.jpg"
     },
     {
-      name: "Mathieu Baudry",
-      clubs: [
-        {
-          from: "2006",
-          to: "2011",
-          team: "Troyes",
-          loan: false,
-          appearances: "24",
-          goals: "0"
-        },
-        {
-          from: "2011",
-          to: "2012",
-          team: "Bournemouth",
-          loan: false,
-          appearances: "10",
-          goals: "1"
-        },
-        {
-          from: "2012",
-          to: "2012",
-          loan: true,
-          team: "Dagenham & Redbridge",
-          appearances: "11",
-          goals: "0"
-        },
-        {
-          from: "2012",
-          to: "2016",
-          team: "Leyton Orient",
-          loan: false,
-          appearances: "128",
-          goals: "8"
-        },
-        {
-          from: "2016",
-          to: "2018",
-          team: "Doncaster Rovers",
-          loan: false,
-          appearances: "53",
-          goals: "6"
-        },
-        {
-          from: "2018",
-          to: "2019",
-          team: "Milton Keynes Dons",
-          loan: false,
-          appearances: "5",
-          goals: "0"
-        },
-        {
-          from: "2019",
-          to: "2023",
-          team: "Swindon Town",
-          loan: false,
-          appearances: "69",
-          goals: "2"
-        }
-      ],
-      age: "35",
-      position: "Defender"
-    },
-    {
       name: "Kieran Murphy",
       clubs: [
         {
@@ -6719,69 +6656,7 @@ const playerData = [
       age: "30",
       position: "StrikerWinger"
     },
-    {
-      name: "Tom Bradbury",
-      clubs: [
-        {
-          from: "2016",
-          to: "2017",
-          team: "Ware",
-          loan: false,
-          appearances: "26",
-          goals: "0"
-        },
-        {
-          from: "2017",
-          to: "2018",
-          team: "Banbury United",
-          loan: false,
-          appearances: "46",
-          goals: "3"
-        },
-        {
-          from: "2018",
-          to: "2019",
-          team: "Dundee United",
-          loan: false,
-          appearances: "0",
-          goals: "0"
-        },
-        {
-          from: "2019",
-          to: "2019",
-          loan: true,
-          team: "York City",
-          appearances: "3",
-          goals: "0"
-        },
-        {
-          from: "2019",
-          to: "2020",
-          team: "Yeovil Town",
-          loan: false,
-          appearances: "19",
-          goals: "1"
-        },
-        {
-          from: "2020",
-          to: "2022",
-          team: "FC Halifax Town",
-          loan: false,
-          appearances: "68",
-          goals: "5"
-        },
-        {
-          from: "2022",
-          to: "",
-          team: "Cheltenham Town",
-          loan: false,
-          appearances: "18",
-          goals: "1"
-        }
-      ],
-      age: "25",
-      position: "Central defender"
-    },
+    
     {
       name: "Sean O'Hanlon",
       clubs: [
@@ -7035,94 +6910,7 @@ const playerData = [
       position: "Attacking midfielderForward",
       picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/40/Michael_Bridges_April_2019.png/220px-Michael_Bridges_April_2019.png"
     },
-    {
-      name: "Sheyi Ojo",
-      clubs: [
-        {
-          from: "2015",
-          to: "2022",
-          team: "Liverpool",
-          loan: false,
-          appearances: "8",
-          goals: "0"
-        },
-        {
-          from: "2015",
-          to: "2015",
-          loan: true,
-          team: "Wigan Athletic",
-          appearances: "11",
-          goals: "0"
-        },
-        {
-          from: "2015",
-          to: "2016",
-          loan: true,
-          team: "Wolverhampton Wanderers",
-          appearances: "16",
-          goals: "2"
-        },
-        {
-          from: "2017",
-          to: "2018",
-          loan: true,
-          team: "Fulham",
-          appearances: "24",
-          goals: "4"
-        },
-        {
-          from: "2018",
-          to: "2019",
-          loan: true,
-          team: "Reims",
-          appearances: "15",
-          goals: "1"
-        },
-        {
-          from: "2019",
-          to: "2020",
-          loan: true,
-          team: "Rangers",
-          appearances: "19",
-          goals: "1"
-        },
-        {
-          from: "2020",
-          to: "2021",
-          loan: true,
-          team: "Cardiff City",
-          appearances: "41",
-          goals: "5"
-        },
-        {
-          from: "2021",
-          to: "2022",
-          loan: true,
-          team: "Millwall",
-          appearances: "17",
-          goals: "0"
-        },
-        {
-          from: "2022",
-          to: "",
-          team: "Cardiff City",
-          loan: false,
-          appearances: "34",
-          goals: "1"
-        },
-        {
-          from: "2023",
-          to: "",
-          loan: true,
-          team: "KV Kortrijk",
-          appearances: "7",
-          goals: "0"
-        }
-      ],
-      age: "26",
-      position: "Winger",
-      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sheyi_Ojo_2015.jpg/220px-Sheyi_Ojo_2015.jpg"
-    },
+    
     {
       name: "Callum Brittain",
       clubs: [
@@ -7242,213 +7030,7 @@ const playerData = [
       position: "Central midfielder",
       picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Stuart_OKeefe.jpg/200px-Stuart_OKeefe.jpg"
     },
-    {
-      name: "Drewe Broughton",
-      clubs: [
-        {
-          from: "1996",
-          to: "1998",
-          team: "Norwich City",
-          loan: false,
-          appearances: "9",
-          goals: "1"
-        },
-        {
-          from: "1997",
-          to: "1997",
-          loan: true,
-          team: "Wigan Athletic",
-          appearances: "4",
-          goals: "0"
-        },
-        {
-          from: "1998",
-          to: "1998",
-          team: "Brentford",
-          loan: false,
-          appearances: "1",
-          goals: "0"
-        },
-        {
-          from: "1998",
-          to: "2001",
-          team: "Peterborough United",
-          loan: false,
-          appearances: "35",
-          goals: "8"
-        },
-        {
-          from: "2000",
-          to: "2000",
-          loan: true,
-          team: "Nuneaton Borough",
-          appearances: "10",
-          goals: "2"
-        },
-        {
-          from: "2000",
-          to: "2000",
-          loan: true,
-          team: "Dagenham & Redbridge",
-          appearances: "9",
-          goals: "5"
-        },
-        {
-          from: "2000",
-          to: "2001",
-          loan: true,
-          team: "Stevenage Borough",
-          appearances: "4",
-          goals: "3"
-        },
-        {
-          from: "2001",
-          to: "2001",
-          loan: true,
-          team: "Kidderminster Harriers",
-          appearances: "19",
-          goals: "7"
-        },
-        {
-          from: "2001",
-          to: "2003",
-          team: "Kidderminster Harriers",
-          loan: false,
-          appearances: "75",
-          goals: "12"
-        },
-        {
-          from: "2003",
-          to: "2005",
-          team: "Southend United",
-          loan: false,
-          appearances: "44",
-          goals: "2"
-        },
-        {
-          from: "2004",
-          to: "2004",
-          loan: true,
-          team: "Rushden & Diamonds",
-          appearances: "21",
-          goals: "6"
-        },
-        {
-          from: "2004",
-          to: "2005",
-          loan: true,
-          team: "Wycombe Wanderers",
-          appearances: "3",
-          goals: "0"
-        },
-        {
-          from: "2005",
-          to: "2006",
-          team: "Rushden & Diamonds",
-          loan: false,
-          appearances: "37",
-          goals: "10"
-        },
-        {
-          from: "2006",
-          to: "2007",
-          team: "Chester City",
-          loan: false,
-          appearances: "14",
-          goals: "2"
-        },
-        {
-          from: "2006",
-          to: "2007",
-          loan: true,
-          team: "Boston United",
-          appearances: "25",
-          goals: "8"
-        },
-        {
-          from: "2007",
-          to: "2008",
-          team: "Milton Keynes Dons",
-          loan: false,
-          appearances: "13",
-          goals: "0"
-        },
-        {
-          from: "2008",
-          to: "2008",
-          loan: true,
-          team: "Wrexham",
-          appearances: "16",
-          goals: "2"
-        },
-        {
-          from: "2008",
-          to: "2010",
-          team: "Rotherham United",
-          loan: false,
-          appearances: "57",
-          goals: "9"
-        },
-        {
-          from: "2010",
-          to: "2010",
-          loan: true,
-          team: "Lincoln City",
-          appearances: "7",
-          goals: "0"
-        },
-        {
-          from: "2010",
-          to: "2011",
-          team: "Lincoln City",
-          loan: false,
-          appearances: "23",
-          goals: "0"
-        },
-        {
-          from: "2011",
-          to: "2011",
-          loan: true,
-          team: "AFC Wimbledon",
-          appearances: "8",
-          goals: "2"
-        },
-        {
-          from: "2011",
-          to: "2011",
-          team: "Alfreton Town",
-          loan: false,
-          appearances: "2",
-          goals: "1"
-        },
-        {
-          from: "2011",
-          to: "2012",
-          team: "Thurrock",
-          loan: false,
-          appearances: "10",
-          goals: "1"
-        },
-        {
-          from: "2012",
-          to: "2012",
-          team: "Arlesey Town",
-          loan: false,
-          appearances: "2",
-          goals: "1"
-        },
-        {
-          from: "2012",
-          to: "2012",
-          team: "Darlington",
-          loan: false,
-          appearances: "11",
-          goals: "1"
-        }
-      ],
-      age: "45",
-      position: "Striker"
-    },
+    
     {
       name: "Matt O'Riley",
       clubs: [
@@ -11421,61 +11003,7 @@ const playerData = [
       position: "Goalkeeper",
       picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/e/ed/LewisPrice01.jpg/200px-LewisPrice01.jpg"
     },
-    {
-      name: "Danny Collinge",
-      clubs: [
-        {
-          from: "2017",
-          to: "2019",
-          team: "VfB Stuttgart II",
-          loan: false,
-          appearances: "15",
-          goals: "0"
-        },
-        {
-          from: "2019",
-          to: "2021",
-          team: "Colchester United",
-          loan: false,
-          appearances: "0",
-          goals: "0"
-        },
-        {
-          from: "2019",
-          to: "2020",
-          loan: true,
-          team: "Maldon & Tiptree",
-          appearances: "13",
-          goals: "1"
-        },
-        {
-          from: "2020",
-          to: "2020",
-          loan: true,
-          team: "A.F.C. Sudbury",
-          appearances: "5",
-          goals: "1"
-        },
-        {
-          from: "2021",
-          to: "2022",
-          team: "Dover Athletic",
-          loan: false,
-          appearances: "38",
-          goals: "2"
-        },
-        {
-          from: "2022",
-          to: "",
-          team: "Barnet",
-          loan: false,
-          appearances: "51",
-          goals: "7"
-        }
-      ],
-      age: "25",
-      position: "Defender"
-    },
+    
     {
       name: "Jason Puncheon",
       clubs: [
@@ -12400,110 +11928,7 @@ const playerData = [
       position: "Midfielder",
       picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/52/Alex_Rae.jpg/220px-Alex_Rae.jpg"
     },
-    {
-      name: "Max Crocombe",
-      clubs: [
-        {
-          from: "2009",
-          to: "2010",
-          team: "Buckingham Town",
-          loan: false,
-          appearances: "33",
-          goals: "1"
-        },
-        {
-          from: "2010",
-          to: "2016",
-          team: "Oxford United",
-          loan: false,
-          appearances: "4",
-          goals: "0"
-        },
-        {
-          from: "2011",
-          to: "2012",
-          loan: true,
-          team: "Banbury United",
-          appearances: "1",
-          goals: "0"
-        },
-        {
-          from: "2015",
-          to: "2015",
-          loan: true,
-          team: "Nuneaton Town",
-          appearances: "10",
-          goals: "0"
-        },
-        {
-          from: "2015",
-          to: "2015",
-          loan: true,
-          team: "Barnet",
-          appearances: "5",
-          goals: "0"
-        },
-        {
-          from: "2015",
-          to: "2016",
-          loan: true,
-          team: "Southport",
-          appearances: "25",
-          goals: "0"
-        },
-        {
-          from: "2016",
-          to: "2017",
-          team: "Carlisle United",
-          loan: false,
-          appearances: "0",
-          goals: "0"
-        },
-        {
-          from: "2017",
-          to: "2019",
-          team: "Salford City",
-          loan: false,
-          appearances: "31",
-          goals: "0"
-        },
-        {
-          from: "2019",
-          to: "2020",
-          team: "Brisbane Roar",
-          loan: false,
-          appearances: "6",
-          goals: "0"
-        },
-        {
-          from: "2020",
-          to: "2021",
-          team: "Melbourne Victory",
-          loan: false,
-          appearances: "10",
-          goals: "0"
-        },
-        {
-          from: "2021",
-          to: "2023",
-          team: "Grimsby Town",
-          loan: false,
-          appearances: "72",
-          goals: "0"
-        },
-        {
-          from: "2023",
-          to: "",
-          team: "Burton Albion",
-          loan: false,
-          appearances: "15",
-          goals: "0"
-        }
-      ],
-      age: "30",
-      position: "Goalkeeper",
-      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/9/98/Max_Crocombe.png/200px-Max_Crocombe.png"
-    },
+    
     {
       name: "Mark Randall",
       clubs: [
@@ -13332,54 +12757,7 @@ const playerData = [
       position: "Midfielder",
       picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nigel_Reo-Coker%2C_Aston_Villa.jpg/220px-Nigel_Reo-Coker%2C_Aston_Villa.jpg"
     },
-    {
-      name: "Kevin Danso",
-      clubs: [
-        {
-          from: "2016",
-          to: "2018",
-          team: "FC Augsburg II",
-          loan: false,
-          appearances: "5",
-          goals: "0"
-        },
-        {
-          from: "2017",
-          to: "2021",
-          team: "FC Augsburg",
-          loan: false,
-          appearances: "41",
-          goals: "3"
-        },
-        {
-          from: "2019",
-          to: "2020",
-          loan: true,
-          team: "Southampton",
-          appearances: "6",
-          goals: "0"
-        },
-        {
-          from: "2020",
-          to: "2021",
-          loan: true,
-          team: "Fortuna Düsseldorf",
-          appearances: "32",
-          goals: "2"
-        },
-        {
-          from: "2021",
-          to: "",
-          team: "Lens",
-          loan: false,
-          appearances: "82",
-          goals: "3"
-        }
-      ],
-      age: "25",
-      position: "Centre-back",
-      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg/220px-RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg"
-    },
+    
     {
       name: "Alex Revell",
       clubs: [
@@ -14881,142 +14259,7 @@ const playerData = [
       age: "32",
       position: "Right midfield"
     },
-    {
-      name: "Craig Dobson",
-      clubs: [
-        {
-          from: "2003",
-          to: "2004",
-          team: "Cheltenham Town",
-          loan: false,
-          appearances: "2",
-          goals: "0"
-        },
-        {
-          from: "2004",
-          to: "2004",
-          team: "Barnet",
-          loan: false,
-          appearances: "3",
-          goals: "0"
-        },
-        {
-          from: "2005",
-          to: "2006",
-          team: "Cambridge City",
-          loan: false,
-          appearances: "40",
-          goals: "9"
-        },
-        {
-          from: "2006",
-          to: "2008",
-          team: "Stevenage Borough",
-          loan: false,
-          appearances: "62",
-          goals: "14"
-        },
-        {
-          from: "2008",
-          to: "2009",
-          team: "Milton Keynes Dons",
-          loan: false,
-          appearances: "1",
-          goals: "0"
-        },
-        {
-          from: "2008",
-          to: "2008",
-          loan: true,
-          team: "Wycombe Wanderers",
-          appearances: "0",
-          goals: "0"
-        },
-        {
-          from: "2009",
-          to: "2009",
-          team: "Brentford",
-          loan: false,
-          appearances: "0",
-          goals: "0"
-        },
-        {
-          from: "2009",
-          to: "2010",
-          team: "Mansfield Town",
-          loan: false,
-          appearances: "5",
-          goals: "0"
-        },
-        {
-          from: "2009",
-          to: "2009",
-          loan: true,
-          team: "Kettering Town",
-          appearances: "1",
-          goals: "0"
-        },
-        {
-          from: "2010",
-          to: "2010",
-          team: "Farnborough",
-          loan: false,
-          appearances: "4",
-          goals: "1"
-        },
-        {
-          from: "2010",
-          to: "2010",
-          team: "Sutton United",
-          loan: false,
-          appearances: "5",
-          goals: "0"
-        },
-        {
-          from: "2010",
-          to: "2011",
-          team: "Thurrock",
-          loan: false,
-          appearances: "4",
-          goals: "0"
-        },
-        {
-          from: "2010",
-          to: "2011",
-          loan: true,
-          team: "Barnet (dual regist",
-          appearances: "1",
-          goals: "0"
-        },
-        {
-          from: "2011",
-          to: "2011",
-          team: "Braintree Town",
-          loan: false,
-          appearances: "3",
-          goals: "0"
-        },
-        {
-          from: "2011",
-          to: "2011",
-          team: "Woking",
-          loan: false,
-          appearances: "18",
-          goals: "7"
-        },
-        {
-          from: "2011",
-          to: "2012",
-          team: "Kettering Town",
-          loan: false,
-          appearances: "1",
-          goals: "0"
-        }
-      ],
-      age: "39",
-      position: "Midfielder",
-      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Craig_Dobson%2C_Woking_FC_footballer%2C_February_2011.jpg/220px-Craig_Dobson%2C_Woking_FC_footballer%2C_February_2011.jpg"
-    },
+    
     {
       name: "Wade Small",
       clubs: [
@@ -22655,54 +21898,7 @@ const playerData = [
       position: "Forward",
       picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/80/2018rhyshealeyccfc.jpg/200px-2018rhyshealeyccfc.jpg"
     },
-    {
-      name: "Joe Walsh",
-      clubs: [
-        {
-          from: "2009",
-          to: "2012",
-          team: "Swansea City",
-          loan: false,
-          appearances: "0",
-          goals: "0"
-        },
-        {
-          from: "2012",
-          to: "2015",
-          team: "Crawley Town",
-          loan: false,
-          appearances: "97",
-          goals: "8"
-        },
-        {
-          from: "2015",
-          to: "2015",
-          loan: true,
-          team: "Milton Keynes Dons",
-          appearances: "2",
-          goals: "0"
-        },
-        {
-          from: "2015",
-          to: "2020",
-          team: "Milton Keynes Dons",
-          loan: false,
-          appearances: "121",
-          goals: "4"
-        },
-        {
-          from: "2020",
-          to: "2023",
-          team: "Lincoln City",
-          loan: false,
-          appearances: "44",
-          goals: "1"
-        }
-      ],
-      age: "31",
-      position: "Centre back",
-      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joe_Walsh_Crawley_Town_1_November_2014.jpg/220px-Joe_Walsh_Crawley_Town_1_November_2014.jpg"
-    },
+    
     {
       name: "Jack Hendry",
       clubs: [
@@ -24876,37 +24072,7 @@ const playerData = [
       position: "Midfielder",
       picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jonathan_Williams_WC2022.jpg/200px-Jonathan_Williams_WC2022.jpg"
     },
-    {
-      name: "Kyle Hurst",
-      clubs: [
-        {
-          from: "2020",
-          to: "2022",
-          team: "Birmingham City",
-          loan: false,
-          appearances: "0",
-          goals: "0"
-        },
-        {
-          from: "2022",
-          to: "2022",
-          loan: true,
-          team: "Alvechurch",
-          appearances: "4",
-          goals: "0"
-        },
-        {
-          from: "2022",
-          to: "",
-          team: "Doncaster Rovers",
-          loan: false,
-          appearances: "48",
-          goals: "6"
-        }
-      ],
-      age: "21",
-      position: "Winger, forward[]"
-    },
+    
     {
       name: "Mark Williams",
       clubs: [
@@ -25200,78 +24366,7 @@ const playerData = [
       age: "20",
       position: "Wing-back"
     },
-    {
-      name: "Shaun Williams",
-      clubs: [
-        {
-          from: "2006",
-          to: "2008",
-          team: "Drogheda United",
-          loan: false,
-          appearances: "4",
-          goals: "0"
-        },
-        {
-          from: "2007",
-          to: "2007",
-          loan: true,
-          team: "Dundalk",
-          appearances: "25",
-          goals: "8"
-        },
-        {
-          from: "2008",
-          to: "2008",
-          loan: true,
-          team: "Finn Harps",
-          appearances: "14",
-          goals: "2"
-        },
-        {
-          from: "2009",
-          to: "2010",
-          team: "Sporting Fingal",
-          loan: false,
-          appearances: "45",
-          goals: "13"
-        },
-        {
-          from: "2011",
-          to: "2014",
-          team: "Milton Keynes Dons",
-          loan: false,
-          appearances: "108",
-          goals: "19"
-        },
-        {
-          from: "2014",
-          to: "2021",
-          team: "Millwall",
-          loan: false,
-          appearances: "252",
-          goals: "18"
-        },
-        {
-          from: "2021",
-          to: "2022",
-          team: "Portsmouth",
-          loan: false,
-          appearances: "31",
-          goals: "0"
-        },
-        {
-          from: "2022",
-          to: "",
-          team: "Gillingham",
-          loan: false,
-          appearances: "43",
-          goals: "4"
-        }
-      ],
-      age: "37",
-      position: "Defensive midfielder",
-      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/40/Shaun_Williams.jpg/200px-Shaun_Williams.jpg"
-    },
+
     {
       name: "Zeli Ismail",
       clubs: [
@@ -26877,54 +25972,7 @@ const playerData = [
       age: "23",
       position: "Forward"
     },
-    {
-      name: "Liam Kelly",
-      clubs: [
-        {
-          from: "2009",
-          to: "2013",
-          team: "Kilmarnock",
-          loan: false,
-          appearances: "100",
-          goals: "15"
-        },
-        {
-          from: "2013",
-          to: "2014",
-          team: "Bristol City",
-          loan: false,
-          appearances: "21",
-          goals: "0"
-        },
-        {
-          from: "2014",
-          to: "2016",
-          team: "Oldham Athletic",
-          loan: false,
-          appearances: "78",
-          goals: "7"
-        },
-        {
-          from: "2016",
-          to: "2017",
-          team: "Leyton Orient",
-          loan: false,
-          appearances: "21",
-          goals: "4"
-        },
-        {
-          from: "2017",
-          to: "",
-          team: "Coventry City",
-          loan: false,
-          appearances: "170",
-          goals: "3"
-        }
-      ],
-      age: "33",
-      position: "Defensive midfielder",
-      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/20/Liam_Kelly.jpg/150px-Liam_Kelly.jpg"
-    },
+    
     {
       name: "Michael Kelly",
       clubs: [
@@ -28459,173 +27507,7 @@ const playerData = [
       position: "Centre back",
       picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/47/Miguel_Llera_1.png/220px-Miguel_Llera_1.png"
     },
-    {
-      name: "Leon Lobjoit",
-      clubs: [
-        {
-          from: "2014",
-          to: "2014",
-          team: "Hemel Hempstead Town",
-          loan: false,
-          appearances: 0,
-          goals: 0
-        },
-        {
-          from: "2014",
-          to: "2014",
-          team: "New Bradwell St Peter",
-          loan: false,
-          appearances: "10",
-          goals: "11"
-        },
-        {
-          from: "2014",
-          to: "2015",
-          team: "Leighton Town",
-          loan: false,
-          appearances: "4",
-          goals: "0"
-        },
-        {
-          from: "2015",
-          to: "2015",
-          team: "Arlesey Town",
-          loan: false,
-          appearances: "6",
-          goals: "1"
-        },
-        {
-          from: "2015",
-          to: "2016",
-          team: "Queens Park Rangers",
-          loan: false,
-          appearances: "0",
-          goals: "0"
-        },
-        {
-          from: "2016",
-          to: "2017",
-          team: "Buckingham Town",
-          loan: false,
-          appearances: "30",
-          goals: "52"
-        },
-        {
-          from: "2017",
-          to: "2018",
-          team: "Northampton Town",
-          loan: false,
-          appearances: "0",
-          goals: "0"
-        },
-        {
-          from: "2017",
-          to: "2017",
-          loan: true,
-          team: "Corby Town",
-          appearances: 0,
-          goals: 0
-        },
-        {
-          from: "2017",
-          to: "2017",
-          loan: true,
-          team: "Nuneaton Town",
-          appearances: "4",
-          goals: "0"
-        },
-        {
-          from: "2018",
-          to: "2018",
-          loan: true,
-          team: "Banbury United",
-          appearances: "1",
-          goals: "0"
-        },
-        {
-          from: "2018",
-          to: "2018",
-          team: "Brackley Town",
-          loan: false,
-          appearances: 0,
-          goals: 0
-        },
-        {
-          from: "2018",
-          to: "2018",
-          team: "AFC Rushden & Diamonds",
-          loan: false,
-          appearances: "2",
-          goals: "0"
-        },
-        {
-          from: "2018",
-          to: "2018",
-          team: "Oxford City",
-          loan: false,
-          appearances: "1",
-          goals: "0"
-        },
-        {
-          from: "2018",
-          to: "2018",
-          team: "MK Gallacticos",
-          loan: false,
-          appearances: "1",
-          goals: "1"
-        },
-        {
-          from: "2019",
-          to: "2019",
-          team: "Bedford Town",
-          loan: false,
-          appearances: "8",
-          goals: "4"
-        },
-        {
-          from: "2019",
-          to: "2019",
-          team: "Hemel Hempstead Town",
-          loan: false,
-          appearances: "8",
-          goals: "1"
-        },
-        {
-          from: "2019",
-          to: "2020",
-          team: "Newport Pagnell Town",
-          loan: false,
-          appearances: "9",
-          goals: "14"
-        },
-        {
-          from: "2020",
-          to: "2021",
-          team: "St Neots Town",
-          loan: false,
-          appearances: "7",
-          goals: "3"
-        },
-        {
-          from: "2021",
-          to: "2023",
-          team: "Leighton Town",
-          loan: false,
-          appearances: 0,
-          goals: 0
-        },
-        {
-          from: "2023",
-          to: "",
-          team: "Daventry Town",
-          loan: false,
-          appearances: 0,
-          goals: 0
-        }
-      ],
-      age: "28",
-      position: "Striker"
-    },
+    
     {
       name: "Hugo Logan",
       clubs: [
@@ -30160,6 +29042,1140 @@ const playerData = [
       age: "26",
       position: "Defender"
     }
+  ]
+
+
+  const usedPlayers = [
+    {
+      name: "Shaun Williams",
+      clubs: [
+        {
+          from: "2006",
+          to: "2008",
+          team: "Drogheda United",
+          loan: false,
+          appearances: "4",
+          goals: "0"
+        },
+        {
+          from: "2007",
+          to: "2007",
+          loan: true,
+          team: "Dundalk",
+          appearances: "25",
+          goals: "8"
+        },
+        {
+          from: "2008",
+          to: "2008",
+          loan: true,
+          team: "Finn Harps",
+          appearances: "14",
+          goals: "2"
+        },
+        {
+          from: "2009",
+          to: "2010",
+          team: "Sporting Fingal",
+          loan: false,
+          appearances: "45",
+          goals: "13"
+        },
+        {
+          from: "2011",
+          to: "2014",
+          team: "Milton Keynes Dons",
+          loan: false,
+          appearances: "108",
+          goals: "19"
+        },
+        {
+          from: "2014",
+          to: "2021",
+          team: "Millwall",
+          loan: false,
+          appearances: "252",
+          goals: "18"
+        },
+        {
+          from: "2021",
+          to: "2022",
+          team: "Portsmouth",
+          loan: false,
+          appearances: "31",
+          goals: "0"
+        },
+        {
+          from: "2022",
+          to: "",
+          team: "Gillingham",
+          loan: false,
+          appearances: "43",
+          goals: "4"
+        }
+      ],
+      age: "37",
+      position: "Defensive midfielder",
+      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/4/40/Shaun_Williams.jpg/200px-Shaun_Williams.jpg"
+    },
+    {
+      name: "Craig Dobson",
+      clubs: [
+        {
+          from: "2003",
+          to: "2004",
+          team: "Cheltenham Town",
+          loan: false,
+          appearances: "2",
+          goals: "0"
+        },
+        {
+          from: "2004",
+          to: "2004",
+          team: "Barnet",
+          loan: false,
+          appearances: "3",
+          goals: "0"
+        },
+        {
+          from: "2005",
+          to: "2006",
+          team: "Cambridge City",
+          loan: false,
+          appearances: "40",
+          goals: "9"
+        },
+        {
+          from: "2006",
+          to: "2008",
+          team: "Stevenage Borough",
+          loan: false,
+          appearances: "62",
+          goals: "14"
+        },
+        {
+          from: "2008",
+          to: "2009",
+          team: "Milton Keynes Dons",
+          loan: false,
+          appearances: "1",
+          goals: "0"
+        },
+        {
+          from: "2008",
+          to: "2008",
+          loan: true,
+          team: "Wycombe Wanderers",
+          appearances: "0",
+          goals: "0"
+        },
+        {
+          from: "2009",
+          to: "2009",
+          team: "Brentford",
+          loan: false,
+          appearances: "0",
+          goals: "0"
+        },
+        {
+          from: "2009",
+          to: "2010",
+          team: "Mansfield Town",
+          loan: false,
+          appearances: "5",
+          goals: "0"
+        },
+        {
+          from: "2009",
+          to: "2009",
+          loan: true,
+          team: "Kettering Town",
+          appearances: "1",
+          goals: "0"
+        },
+        {
+          from: "2010",
+          to: "2010",
+          team: "Farnborough",
+          loan: false,
+          appearances: "4",
+          goals: "1"
+        },
+        {
+          from: "2010",
+          to: "2010",
+          team: "Sutton United",
+          loan: false,
+          appearances: "5",
+          goals: "0"
+        },
+        {
+          from: "2010",
+          to: "2011",
+          team: "Thurrock",
+          loan: false,
+          appearances: "4",
+          goals: "0"
+        },
+        {
+          from: "2010",
+          to: "2011",
+          loan: true,
+          team: "Barnet (dual regist",
+          appearances: "1",
+          goals: "0"
+        },
+        {
+          from: "2011",
+          to: "2011",
+          team: "Braintree Town",
+          loan: false,
+          appearances: "3",
+          goals: "0"
+        },
+        {
+          from: "2011",
+          to: "2011",
+          team: "Woking",
+          loan: false,
+          appearances: "18",
+          goals: "7"
+        },
+        {
+          from: "2011",
+          to: "2012",
+          team: "Kettering Town",
+          loan: false,
+          appearances: "1",
+          goals: "0"
+        }
+      ],
+      age: "39",
+      position: "Midfielder",
+      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Craig_Dobson%2C_Woking_FC_footballer%2C_February_2011.jpg/220px-Craig_Dobson%2C_Woking_FC_footballer%2C_February_2011.jpg"
+    },
+    {
+      name: "Drewe Broughton",
+      clubs: [
+        {
+          from: "1996",
+          to: "1998",
+          team: "Norwich City",
+          loan: false,
+          appearances: "9",
+          goals: "1"
+        },
+        {
+          from: "1997",
+          to: "1997",
+          loan: true,
+          team: "Wigan Athletic",
+          appearances: "4",
+          goals: "0"
+        },
+        {
+          from: "1998",
+          to: "1998",
+          team: "Brentford",
+          loan: false,
+          appearances: "1",
+          goals: "0"
+        },
+        {
+          from: "1998",
+          to: "2001",
+          team: "Peterborough United",
+          loan: false,
+          appearances: "35",
+          goals: "8"
+        },
+        {
+          from: "2000",
+          to: "2000",
+          loan: true,
+          team: "Nuneaton Borough",
+          appearances: "10",
+          goals: "2"
+        },
+        {
+          from: "2000",
+          to: "2000",
+          loan: true,
+          team: "Dagenham & Redbridge",
+          appearances: "9",
+          goals: "5"
+        },
+        {
+          from: "2000",
+          to: "2001",
+          loan: true,
+          team: "Stevenage Borough",
+          appearances: "4",
+          goals: "3"
+        },
+        {
+          from: "2001",
+          to: "2001",
+          loan: true,
+          team: "Kidderminster Harriers",
+          appearances: "19",
+          goals: "7"
+        },
+        {
+          from: "2001",
+          to: "2003",
+          team: "Kidderminster Harriers",
+          loan: false,
+          appearances: "75",
+          goals: "12"
+        },
+        {
+          from: "2003",
+          to: "2005",
+          team: "Southend United",
+          loan: false,
+          appearances: "44",
+          goals: "2"
+        },
+        {
+          from: "2004",
+          to: "2004",
+          loan: true,
+          team: "Rushden & Diamonds",
+          appearances: "21",
+          goals: "6"
+        },
+        {
+          from: "2004",
+          to: "2005",
+          loan: true,
+          team: "Wycombe Wanderers",
+          appearances: "3",
+          goals: "0"
+        },
+        {
+          from: "2005",
+          to: "2006",
+          team: "Rushden & Diamonds",
+          loan: false,
+          appearances: "37",
+          goals: "10"
+        },
+        {
+          from: "2006",
+          to: "2007",
+          team: "Chester City",
+          loan: false,
+          appearances: "14",
+          goals: "2"
+        },
+        {
+          from: "2006",
+          to: "2007",
+          loan: true,
+          team: "Boston United",
+          appearances: "25",
+          goals: "8"
+        },
+        {
+          from: "2007",
+          to: "2008",
+          team: "Milton Keynes Dons",
+          loan: false,
+          appearances: "13",
+          goals: "0"
+        },
+        {
+          from: "2008",
+          to: "2008",
+          loan: true,
+          team: "Wrexham",
+          appearances: "16",
+          goals: "2"
+        },
+        {
+          from: "2008",
+          to: "2010",
+          team: "Rotherham United",
+          loan: false,
+          appearances: "57",
+          goals: "9"
+        },
+        {
+          from: "2010",
+          to: "2010",
+          loan: true,
+          team: "Lincoln City",
+          appearances: "7",
+          goals: "0"
+        },
+        {
+          from: "2010",
+          to: "2011",
+          team: "Lincoln City",
+          loan: false,
+          appearances: "23",
+          goals: "0"
+        },
+        {
+          from: "2011",
+          to: "2011",
+          loan: true,
+          team: "AFC Wimbledon",
+          appearances: "8",
+          goals: "2"
+        },
+        {
+          from: "2011",
+          to: "2011",
+          team: "Alfreton Town",
+          loan: false,
+          appearances: "2",
+          goals: "1"
+        },
+        {
+          from: "2011",
+          to: "2012",
+          team: "Thurrock",
+          loan: false,
+          appearances: "10",
+          goals: "1"
+        },
+        {
+          from: "2012",
+          to: "2012",
+          team: "Arlesey Town",
+          loan: false,
+          appearances: "2",
+          goals: "1"
+        },
+        {
+          from: "2012",
+          to: "2012",
+          team: "Darlington",
+          loan: false,
+          appearances: "11",
+          goals: "1"
+        }
+      ],
+      age: "45",
+      position: "Striker"
+    },
+    {
+      name: "Leon Lobjoit",
+      clubs: [
+        {
+          from: "2014",
+          to: "2014",
+          team: "Hemel Hempstead Town",
+          loan: false,
+          appearances: 0,
+          goals: 0
+        },
+        {
+          from: "2014",
+          to: "2014",
+          team: "New Bradwell St Peter",
+          loan: false,
+          appearances: "10",
+          goals: "11"
+        },
+        {
+          from: "2014",
+          to: "2015",
+          team: "Leighton Town",
+          loan: false,
+          appearances: "4",
+          goals: "0"
+        },
+        {
+          from: "2015",
+          to: "2015",
+          team: "Arlesey Town",
+          loan: false,
+          appearances: "6",
+          goals: "1"
+        },
+        {
+          from: "2015",
+          to: "2016",
+          team: "Queens Park Rangers",
+          loan: false,
+          appearances: "0",
+          goals: "0"
+        },
+        {
+          from: "2016",
+          to: "2017",
+          team: "Buckingham Town",
+          loan: false,
+          appearances: "30",
+          goals: "52"
+        },
+        {
+          from: "2017",
+          to: "2018",
+          team: "Northampton Town",
+          loan: false,
+          appearances: "0",
+          goals: "0"
+        },
+        {
+          from: "2017",
+          to: "2017",
+          loan: true,
+          team: "Corby Town",
+          appearances: 0,
+          goals: 0
+        },
+        {
+          from: "2017",
+          to: "2017",
+          loan: true,
+          team: "Nuneaton Town",
+          appearances: "4",
+          goals: "0"
+        },
+        {
+          from: "2018",
+          to: "2018",
+          loan: true,
+          team: "Banbury United",
+          appearances: "1",
+          goals: "0"
+        },
+        {
+          from: "2018",
+          to: "2018",
+          team: "Brackley Town",
+          loan: false,
+          appearances: 0,
+          goals: 0
+        },
+        {
+          from: "2018",
+          to: "2018",
+          team: "AFC Rushden & Diamonds",
+          loan: false,
+          appearances: "2",
+          goals: "0"
+        },
+        {
+          from: "2018",
+          to: "2018",
+          team: "Oxford City",
+          loan: false,
+          appearances: "1",
+          goals: "0"
+        },
+        {
+          from: "2018",
+          to: "2018",
+          team: "MK Gallacticos",
+          loan: false,
+          appearances: "1",
+          goals: "1"
+        },
+        {
+          from: "2019",
+          to: "2019",
+          team: "Bedford Town",
+          loan: false,
+          appearances: "8",
+          goals: "4"
+        },
+        {
+          from: "2019",
+          to: "2019",
+          team: "Hemel Hempstead Town",
+          loan: false,
+          appearances: "8",
+          goals: "1"
+        },
+        {
+          from: "2019",
+          to: "2020",
+          team: "Newport Pagnell Town",
+          loan: false,
+          appearances: "9",
+          goals: "14"
+        },
+        {
+          from: "2020",
+          to: "2021",
+          team: "St Neots Town",
+          loan: false,
+          appearances: "7",
+          goals: "3"
+        },
+        {
+          from: "2021",
+          to: "2023",
+          team: "Leighton Town",
+          loan: false,
+          appearances: 0,
+          goals: 0
+        },
+        {
+          from: "2023",
+          to: "",
+          team: "Daventry Town",
+          loan: false,
+          appearances: 0,
+          goals: 0
+        }
+      ],
+      age: "28",
+      position: "Striker"
+    },
+    {
+      name: "Mathieu Baudry",
+      clubs: [
+        {
+          from: "2006",
+          to: "2011",
+          team: "Troyes",
+          loan: false,
+          appearances: "24",
+          goals: "0"
+        },
+        {
+          from: "2011",
+          to: "2012",
+          team: "Bournemouth",
+          loan: false,
+          appearances: "10",
+          goals: "1"
+        },
+        {
+          from: "2012",
+          to: "2012",
+          loan: true,
+          team: "Dagenham & Redbridge",
+          appearances: "11",
+          goals: "0"
+        },
+        {
+          from: "2012",
+          to: "2016",
+          team: "Leyton Orient",
+          loan: false,
+          appearances: "128",
+          goals: "8"
+        },
+        {
+          from: "2016",
+          to: "2018",
+          team: "Doncaster Rovers",
+          loan: false,
+          appearances: "53",
+          goals: "6"
+        },
+        {
+          from: "2018",
+          to: "2019",
+          team: "Milton Keynes Dons",
+          loan: false,
+          appearances: "5",
+          goals: "0"
+        },
+        {
+          from: "2019",
+          to: "2023",
+          team: "Swindon Town",
+          loan: false,
+          appearances: "69",
+          goals: "2"
+        }
+      ],
+      age: "35",
+      position: "Defender"
+    },
+    {
+      name: "Joe Walsh",
+      clubs: [
+        {
+          from: "2009",
+          to: "2012",
+          team: "Swansea City",
+          loan: false,
+          appearances: "0",
+          goals: "0"
+        },
+        {
+          from: "2012",
+          to: "2015",
+          team: "Crawley Town",
+          loan: false,
+          appearances: "97",
+          goals: "8"
+        },
+        {
+          from: "2015",
+          to: "2015",
+          loan: true,
+          team: "Milton Keynes Dons",
+          appearances: "2",
+          goals: "0"
+        },
+        {
+          from: "2015",
+          to: "2020",
+          team: "Milton Keynes Dons",
+          loan: false,
+          appearances: "121",
+          goals: "4"
+        },
+        {
+          from: "2020",
+          to: "2023",
+          team: "Lincoln City",
+          loan: false,
+          appearances: "44",
+          goals: "1"
+        }
+      ],
+      age: "31",
+      position: "Centre back",
+      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joe_Walsh_Crawley_Town_1_November_2014.jpg/220px-Joe_Walsh_Crawley_Town_1_November_2014.jpg"
+    },
+    {
+      name: "Tom Bradbury",
+      clubs: [
+        {
+          from: "2016",
+          to: "2017",
+          team: "Ware",
+          loan: false,
+          appearances: "26",
+          goals: "0"
+        },
+        {
+          from: "2017",
+          to: "2018",
+          team: "Banbury United",
+          loan: false,
+          appearances: "46",
+          goals: "3"
+        },
+        {
+          from: "2018",
+          to: "2019",
+          team: "Dundee United",
+          loan: false,
+          appearances: "0",
+          goals: "0"
+        },
+        {
+          from: "2019",
+          to: "2019",
+          loan: true,
+          team: "York City",
+          appearances: "3",
+          goals: "0"
+        },
+        {
+          from: "2019",
+          to: "2020",
+          team: "Yeovil Town",
+          loan: false,
+          appearances: "19",
+          goals: "1"
+        },
+        {
+          from: "2020",
+          to: "2022",
+          team: "FC Halifax Town",
+          loan: false,
+          appearances: "68",
+          goals: "5"
+        },
+        {
+          from: "2022",
+          to: "",
+          team: "Cheltenham Town",
+          loan: false,
+          appearances: "18",
+          goals: "1"
+        }
+      ],
+      age: "25",
+      position: "Central defender"
+    },
+    {
+      name: "Danny Collinge",
+      clubs: [
+        {
+          from: "2017",
+          to: "2019",
+          team: "VfB Stuttgart II",
+          loan: false,
+          appearances: "15",
+          goals: "0"
+        },
+        {
+          from: "2019",
+          to: "2021",
+          team: "Colchester United",
+          loan: false,
+          appearances: "0",
+          goals: "0"
+        },
+        {
+          from: "2019",
+          to: "2020",
+          loan: true,
+          team: "Maldon & Tiptree",
+          appearances: "13",
+          goals: "1"
+        },
+        {
+          from: "2020",
+          to: "2020",
+          loan: true,
+          team: "A.F.C. Sudbury",
+          appearances: "5",
+          goals: "1"
+        },
+        {
+          from: "2021",
+          to: "2022",
+          team: "Dover Athletic",
+          loan: false,
+          appearances: "38",
+          goals: "2"
+        },
+        {
+          from: "2022",
+          to: "",
+          team: "Barnet",
+          loan: false,
+          appearances: "51",
+          goals: "7"
+        }
+      ],
+      age: "25",
+      position: "Defender"
+    },
+    {
+      name: "Max Crocombe",
+      clubs: [
+        {
+          from: "2009",
+          to: "2010",
+          team: "Buckingham Town",
+          loan: false,
+          appearances: "33",
+          goals: "1"
+        },
+        {
+          from: "2010",
+          to: "2016",
+          team: "Oxford United",
+          loan: false,
+          appearances: "4",
+          goals: "0"
+        },
+        {
+          from: "2011",
+          to: "2012",
+          loan: true,
+          team: "Banbury United",
+          appearances: "1",
+          goals: "0"
+        },
+        {
+          from: "2015",
+          to: "2015",
+          loan: true,
+          team: "Nuneaton Town",
+          appearances: "10",
+          goals: "0"
+        },
+        {
+          from: "2015",
+          to: "2015",
+          loan: true,
+          team: "Barnet",
+          appearances: "5",
+          goals: "0"
+        },
+        {
+          from: "2015",
+          to: "2016",
+          loan: true,
+          team: "Southport",
+          appearances: "25",
+          goals: "0"
+        },
+        {
+          from: "2016",
+          to: "2017",
+          team: "Carlisle United",
+          loan: false,
+          appearances: "0",
+          goals: "0"
+        },
+        {
+          from: "2017",
+          to: "2019",
+          team: "Salford City",
+          loan: false,
+          appearances: "31",
+          goals: "0"
+        },
+        {
+          from: "2019",
+          to: "2020",
+          team: "Brisbane Roar",
+          loan: false,
+          appearances: "6",
+          goals: "0"
+        },
+        {
+          from: "2020",
+          to: "2021",
+          team: "Melbourne Victory",
+          loan: false,
+          appearances: "10",
+          goals: "0"
+        },
+        {
+          from: "2021",
+          to: "2023",
+          team: "Grimsby Town",
+          loan: false,
+          appearances: "72",
+          goals: "0"
+        },
+        {
+          from: "2023",
+          to: "",
+          team: "Burton Albion",
+          loan: false,
+          appearances: "15",
+          goals: "0"
+        }
+      ],
+      age: "30",
+      position: "Goalkeeper",
+      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/9/98/Max_Crocombe.png/200px-Max_Crocombe.png"
+    },
+    {
+      name: "Kevin Danso",
+      clubs: [
+        {
+          from: "2016",
+          to: "2018",
+          team: "FC Augsburg II",
+          loan: false,
+          appearances: "5",
+          goals: "0"
+        },
+        {
+          from: "2017",
+          to: "2021",
+          team: "FC Augsburg",
+          loan: false,
+          appearances: "41",
+          goals: "3"
+        },
+        {
+          from: "2019",
+          to: "2020",
+          loan: true,
+          team: "Southampton",
+          appearances: "6",
+          goals: "0"
+        },
+        {
+          from: "2020",
+          to: "2021",
+          loan: true,
+          team: "Fortuna Düsseldorf",
+          appearances: "32",
+          goals: "2"
+        },
+        {
+          from: "2021",
+          to: "",
+          team: "Lens",
+          loan: false,
+          appearances: "82",
+          goals: "3"
+        }
+      ],
+      age: "25",
+      position: "Centre-back",
+      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg/220px-RC_Lens_-_Lille_OSC_%2817-09-2021%29_46.jpg"
+    },
+    {
+      name: "Kyle Hurst",
+      clubs: [
+        {
+          from: "2020",
+          to: "2022",
+          team: "Birmingham City",
+          loan: false,
+          appearances: "0",
+          goals: "0"
+        },
+        {
+          from: "2022",
+          to: "2022",
+          loan: true,
+          team: "Alvechurch",
+          appearances: "4",
+          goals: "0"
+        },
+        {
+          from: "2022",
+          to: "",
+          team: "Doncaster Rovers",
+          loan: false,
+          appearances: "48",
+          goals: "6"
+        }
+      ],
+      age: "21",
+      position: "Winger, forward[]"
+    },
+    {
+      name: "Liam Kelly",
+      clubs: [
+        {
+          from: "2009",
+          to: "2013",
+          team: "Kilmarnock",
+          loan: false,
+          appearances: "100",
+          goals: "15"
+        },
+        {
+          from: "2013",
+          to: "2014",
+          team: "Bristol City",
+          loan: false,
+          appearances: "21",
+          goals: "0"
+        },
+        {
+          from: "2014",
+          to: "2016",
+          team: "Oldham Athletic",
+          loan: false,
+          appearances: "78",
+          goals: "7"
+        },
+        {
+          from: "2016",
+          to: "2017",
+          team: "Leyton Orient",
+          loan: false,
+          appearances: "21",
+          goals: "4"
+        },
+        {
+          from: "2017",
+          to: "",
+          team: "Coventry City",
+          loan: false,
+          appearances: "170",
+          goals: "3"
+        }
+      ],
+      age: "33",
+      position: "Defensive midfielder",
+      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/20/Liam_Kelly.jpg/150px-Liam_Kelly.jpg"
+    },
+    {
+      name: "Sheyi Ojo",
+      clubs: [
+        {
+          from: "2015",
+          to: "2022",
+          team: "Liverpool",
+          loan: false,
+          appearances: "8",
+          goals: "0"
+        },
+        {
+          from: "2015",
+          to: "2015",
+          loan: true,
+          team: "Wigan Athletic",
+          appearances: "11",
+          goals: "0"
+        },
+        {
+          from: "2015",
+          to: "2016",
+          loan: true,
+          team: "Wolverhampton Wanderers",
+          appearances: "16",
+          goals: "2"
+        },
+        {
+          from: "2017",
+          to: "2018",
+          loan: true,
+          team: "Fulham",
+          appearances: "24",
+          goals: "4"
+        },
+        {
+          from: "2018",
+          to: "2019",
+          loan: true,
+          team: "Reims",
+          appearances: "15",
+          goals: "1"
+        },
+        {
+          from: "2019",
+          to: "2020",
+          loan: true,
+          team: "Rangers",
+          appearances: "19",
+          goals: "1"
+        },
+        {
+          from: "2020",
+          to: "2021",
+          loan: true,
+          team: "Cardiff City",
+          appearances: "41",
+          goals: "5"
+        },
+        {
+          from: "2021",
+          to: "2022",
+          loan: true,
+          team: "Millwall",
+          appearances: "17",
+          goals: "0"
+        },
+        {
+          from: "2022",
+          to: "",
+          team: "Cardiff City",
+          loan: false,
+          appearances: "34",
+          goals: "1"
+        },
+        {
+          from: "2023",
+          to: "",
+          loan: true,
+          team: "KV Kortrijk",
+          appearances: "7",
+          goals: "0"
+        }
+      ],
+      age: "26",
+      position: "Winger",
+      picture: "https:////upload.wikimedia.org/wikipedia/commons/thumb/2/27/Sheyi_Ojo_2015.jpg/220px-Sheyi_Ojo_2015.jpg"
+    },
   ]
 
 
